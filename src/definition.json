@@ -1,0 +1,9 @@
+{
+  "type": "string",
+  "component": "TextFieldComponent",
+  "label": "Text field label text",
+  "toolTip": "Tool Tip",
+  "configuration": {
+    "validation": []
+  }
+}
